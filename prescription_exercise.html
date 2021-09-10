@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        table{
+            border-collapse: collapse;
+            border-spacing: 0;
+        }
+        th, td{
+            padding: 10px 20px;
+            border: 1px solid #000;
+        }
+
+        a {
+            color: blue;
+        }
+
+        #exes {
+            /*width: 100%;*/
+        }
+        #thumbnail {
+
+        }
+    </style>
+    <script type=""></script>
+    <script type="text/javascript">
+        function readTextFile(file, callback) {
+            var rawFile = new XMLHttpRequest();
+            rawFile.overrideMimeType("application/json");
+            rawFile.open("GET", file, true);
+            rawFile.onreadystatechange = function() {
+                if (rawFile.readyState === 4 && rawFile.status == "200") {
+                    callback(rawFile.responseText);
+                }
+            }
+            rawFile.send(null);
+        }
+
+        function getUrlParams() {
+            var params = {};
+            window.location.search.replace(/[?&]+([^=&]+)=([^&]*)/gi,
+                function(str, key, value) {
+                    params[key] = value;
+                }
+            );
+
+            return params;
+        }
+        window.onload = function () {
+            var jsonData;
+            readTextFile("exercises.json", function (jsonText) {
+                jsonData = JSON.parse(jsonText);
+                console.log(jsonData);
+                oParams = getUrlParams();
+                // console.log(oParams["list"]);
+                if (oParams["list"] != undefined) {
+                    document.getElementById('exe_title').innerText = "처방 운동 목록";
+                    const list = oParams["list"].split(",");
+                    console.log(list);
+                    // const code01 = list.find(code => code === "ex01");
+                    // console.log("aaa:"+ code01);
+                    list.forEach(function (element) {
+                            exercise = jsonData.find(x => x.code === element);
+                            addTableData(exercise);
+
+                        }
+
+                    );
+                } else {
+                    document.getElementById('exe_title').innerText = "처방된 운동이 없습니다.";
+                }
+            });
+
+
+        }
+
+        function addTableData(element) {
+            let row = document.createElement('tr');
+            let data1 = document.createElement('td');
+            data1.innerHTML = '<img id="thumbnail" src="https://img.youtube.com/vi/'+element.url+'/1.jpg">';
+            let data2 = document.createElement('td');
+            data2.innerHTML = '<a href="https://youtu.be/'+element.url+'" target="_blank">'+element.name+'</a>';
+            row.appendChild(data1);
+            row.appendChild(data2);
+            document.getElementById('exes').appendChild(row);
+        }
+
+    </script>
+    <meta charset="UTF-8">
+    <title>운동처방</title>
+</head>
+<body id="body">
+    <h2 id="exe_title"></h2>
+    <table id="exes">
+
+    </table>
+</body>
+</html>

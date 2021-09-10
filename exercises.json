@@ -1,0 +1,2962 @@
+[
+  {
+    "code": "ex01",
+    "name": "가슴 어깨 스트레칭",
+    "cnt": 12,
+    "setCnt": 1,
+    "description": "앉은자세에서 고프론을 대고 누운채로, 양팔을 벌려 가슴을 확장 시키고 팔을 크게 돌리는 가슴 스트레칭 + 어깨 가동성 운동 입니다.",
+    "group": [
+      "group11",
+      "group22"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 4
+      },
+      {
+        "name": "유연성",
+        "rating": 5
+      }
+    ],
+    "url": "ia-xAb-d4RY",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex02",
+    "name": "고관절내회전(하)",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "앉은 자세에서 무릎을 구부린 채로 무릎을 좌,우로 번갈아가며 바닥을 향해 내리는 동작입니다.",
+    "group": [
+      "group34"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 5
+      },
+      {
+        "name": "유연성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 2
+      }
+    ],
+    "url": "n4E94Coe7Zw",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex03",
+    "name": "캣스트레칭",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "네발기기 상태에서 양손 어깨 넓이보다 멀리 손 짚고 턱,가슴,겨드랑이를 바닥으로 내려 골반이 따라오지 않게 유지하는 자세입니다.",
+    "group": [
+      "group16",
+      "group37",
+      "group11"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 4
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 3
+      }
+    ],
+    "url": "2noyZUDJKmI",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex04",
+    "name": "고프론 스트레칭 시리즈",
+    "cnt": 12,
+    "setCnt": 1,
+    "description": "고프론을 활용한 단계별 여러부위 스트레칭 방법, 모든 임산부에게 운동전후로 적용하면 좋습니다.",
+    "group": [],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 4
+      }
+    ],
+    "url": "",
+    "isTime": false,
+    "isDeleted": true
+  },
+  {
+    "code": "ex05",
+    "name": "근력운동(중둔근)",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "골반을 수평으로 맞춰 옆으로 누운상태에서, 골반은 그대로 유지하고 뒤꿈치가 떨어지지 않는선에서 위쪽 무릎을 벌려주는 동작입니다.",
+    "group": [],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "",
+    "isTime": false,
+    "isDeleted": true
+  },
+  {
+    "code": "ex06",
+    "name": "골반하이킹(스탭박스)",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "서있는 상태에서 한다리는 스탭박스를 지지하고, 반대편 골반을 올리고 내리는 동작입니다.",
+    "group": [
+      "group24"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "_jOtcI9LEUU",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex07",
+    "name": "균형잡기 운동",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "눈을 감고 30초동안 균형을 잡는 동작 입니다.",
+    "group": [
+      "group16"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      }
+    ],
+    "url": "7bJFHp3r17s",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex08",
+    "name": "런지(하)",
+    "cnt": 12,
+    "setCnt": 1,
+    "description": "앞뒤로 다리간격을 벌리고 선 상태에서, 앞쪽 무릎을 90도로 구부리고 뒷 무릎은 바닥에 닿기 전까지만 앉았다가 하체의 힘을 이용하여 천천히 처음자세로 돌아오는 동작입니다.",
+    "group": [
+      "group26",
+      "group24"
+    ],
+    "ratings": [
+      {
+        "name": "근력",
+        "rating": 5
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      }
+    ],
+    "url": "RqxXmGf5j-0",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex09",
+    "name": "로딩캐리(하)",
+    "cnt": 60,
+    "setCnt": 1,
+    "description": "중량을 몸의 중앙에 두고 걷는 동작입니다.",
+    "group": [
+      "group16",
+      "group39"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      },
+      {
+        "name": "유산소",
+        "rating": 3
+      }
+    ],
+    "url": "C7bonFOWKHs",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex10",
+    "name": "롱레그익스텐션",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "의자에 앉은상태에서 한쪽 무릎을 펴서 허벅지 앞쪽 힘을 주는 동작입니다.",
+    "group": [
+      "group26"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "8qpaHN5Y3j0",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex11",
+    "name": "마사지볼 - 허리",
+    "cnt": 30,
+    "setCnt": 1,
+    "description": "천장을 보고 누운상태에서 허리 부위에 마사지볼을 두고 몸을 가볍게 움직이며 마사지하는 동작입니다.",
+    "group": [
+      "group14"
+    ],
+    "ratings": [
+      {
+        "name": "마사지",
+        "rating": 5
+      }
+    ],
+    "url": "BaOGGmRv5R8",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex12",
+    "name": "레그슬라이딩",
+    "cnt": 12,
+    "setCnt": 1,
+    "description": "척추 안정화 운동 시리즈로 누운 자세에서 배를 살짝 당기고 팔다리의 움직임을 조절하는 동작들입니다.",
+    "group": [
+      "group16"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 5
+      },
+      {
+        "name": "근력",
+        "rating": 2
+      }
+    ],
+    "url": "Ynour0usxXE",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex13",
+    "name": "발목가동성(하)",
+    "cnt": 10,
+    "setCnt": 2,
+    "description": "벽에 손을 대고 한쪽다리를 앞으로 한쪽다리를 뒤로 빼서 뒷쪽 다리무릎이 펴지게 쭉 편상태로 종아리 스트레칭을 해주는 동작입니다.",
+    "group": [
+      "group19",
+      "group21"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 4
+      },
+      {
+        "name": "유연성",
+        "rating": 4
+      }
+    ],
+    "url": "e4aZLHHL4lw",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex14",
+    "name": "배당기기",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "네발자세에서 정렬을 유지하면서 코로마실때는 배에 긴장을 풀고 부풀였다가, 입으로 내쉴때는 배꼽을 척추방향으로 당기며 수축하는 동작입니다.",
+    "group": [
+      "group27"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 2
+      }
+    ],
+    "url": "ffqcr4BLPdo",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex15",
+    "name": "복부스트레칭",
+    "cnt": 12,
+    "setCnt": 1,
+    "description": "고프론에 엎드린채로 손바닥으로 바닥을 짚고, 천천히 상체를 들어올려 복부를 늘려주는 동작입니다.",
+    "group": [
+      "group15"
+    ],
+    "ratings": [
+      {
+        "name": "유연성",
+        "rating": 3
+      }
+    ],
+    "url": "Q4MhnVHOXto",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex16",
+    "name": "브릿지&레그슬라이딩",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "브릿지 동작을 유지한채로 한다리는 지지, 반대다리는 뒤꿈치로 바닥을 쓸듯이 밀고 내려갔다가 돌아오는 동작입니다.",
+    "group": [
+      "group25",
+      "group16"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 4
+      }
+    ],
+    "url": "HGgsj2P-TPE",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex17",
+    "name": "브릿지",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "천장을 보고 누운상태에서 골반 넓이로 다리를 벌려준 뒤 무릎을 구부린 채, 복근과 엉덩이에 힘을주며 엉덩이를 천장방향으로 들어올리는 동작입니다.",
+    "group": [
+      "group24",
+      "group25"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 4
+      }
+    ],
+    "url": "sOSRUIUukpc",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex18",
+    "name": "사이드킥",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "옆으로 누운자세에서 윗다리를 척추와 나란하게 들어올리는 동작입니다.",
+    "group": [
+      "group24"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 4
+      }
+    ],
+    "url": "7jgXtnh6ss0",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex19",
+    "name": "숏레그익스텐션",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "바닥에 앉아 무릎아래 쿠션이나 수건을 놓고 누르면서 무릎을 펴줍니다.",
+    "group": [
+      "group26"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "KEsfw7TThLA",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex20",
+    "name": "스쿼트(중)",
+    "cnt": 12,
+    "setCnt": 1,
+    "description": "의자 없이 맨몸으로 90도까지 앉았다 일어나는 동작입니다.",
+    "group": [
+      "group26",
+      "group24"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 4
+      }
+    ],
+    "url": "KlzJHCia59Q",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex21",
+    "name": "스텝업다운",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "바른자세로 서서 스텝박스 위에 한다리씩 교차로 계단오르듯이 스텝박스를 오르내리는 동작입니다.",
+    "group": [
+      "group39"
+    ],
+    "ratings": [
+      {
+        "name": "근력",
+        "rating": 3
+      },
+      {
+        "name": "유산소",
+        "rating": 3
+      }
+    ],
+    "url": "48fL7C9WRaY",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex22",
+    "name": "한발균형잡기",
+    "cnt": 10,
+    "setCnt": 1,
+    "description": "한쪽 다리를 살짝 구부리고 한발로 균형을 잡으며 반대쪽 다리는 최대한 멀리 바닥을 찍고 돌아오는 동작입니다. 지탱하는쪽 다리가 안정적이어야 하며 동작을 할때 균형을 끝까지 잡아야합니다.",
+    "group": [
+      "group16",
+      "group17",
+      "group20"
+    ],
+    "ratings": [
+      {
+        "name": "근력",
+        "rating": 4
+      },
+      {
+        "name": "안정성",
+        "rating": 4
+      }
+    ],
+    "url": "hBIhqdDZM9s",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex23",
+    "name": "싯팅 힙 플렉션",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "짐볼에 앉아서 무릎을 한쪽씩 들었다 내려 놓는 동작입니다.",
+    "group": [
+      "group16",
+      "group17",
+      "group29"
+    ],
+    "ratings": [
+      {
+        "name": "근력",
+        "rating": 2
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      }
+    ],
+    "url": "t8Al9J5Vboc",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex24",
+    "name": "머메이드자세",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "바르게 앉은 자세에서 한발은 뒤로 접어 발목과 복숭아뼈가 땅에 닿게 하고 나머지 발은 안으로 접어 양무릎 일직선상에 두어 양쪽 골반 뼈가 들리지 않도록 눌러준 후 뒤로 접은 다리 쪽으로 상체를 내려갔다 유지 후 돌아오는 자세입니다.",
+    "group": [
+      "group38",
+      "group34"
+    ],
+    "ratings": [
+      {
+        "name": "유연성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "QdqFFSYeqJ8",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex25",
+    "name": "와이레이즈",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "고프론에 엎드린채로 양팔을 Y자로 만들어, 어깨를 밑으로 내려주고 날개뼈가 모이는 느낌으로 팔을 위로 들어올려주는 동작입니다.",
+    "group": [
+      "group31"
+    ],
+    "ratings": [
+      {
+        "name": "근력",
+        "rating": 2
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      }
+    ],
+    "url": "CXAms2bMwbQ",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex26",
+    "name": "유산소운동",
+    "cnt": 10,
+    "setCnt": 1,
+    "description": "-",
+    "group": [],
+    "ratings": [
+      {
+        "name": "유산소",
+        "rating": 3
+      }
+    ],
+    "url": "",
+    "isTime": false,
+    "isDeleted": true
+  },
+  {
+    "code": "ex27",
+    "name": "제자리걷기",
+    "cnt": 10,
+    "setCnt": 1,
+    "description": "-",
+    "group": [
+      "group39"
+    ],
+    "ratings": [
+      {
+        "name": "유산소",
+        "rating": 3
+      }
+    ],
+    "url": "W8rux8aOjqc",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex28",
+    "name": "짐볼 골반 서클",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "짐볼에 앉아서 다리를 넓게 벌려준 채로 골반을 움직여주는 동작입니다.",
+    "group": [
+      "group17"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 3
+      }
+    ],
+    "url": "LrfE6st_uoY",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex29",
+    "name": "짐볼 레그컬",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "양쪽 다리를 짐볼위에 올려주고, 어깨부터 발끝까지 몸 전체가 일직선이 되도록 만들어줍니다. 균형을 유지한상태로 서서히 무릎을 굽혀 짐볼을 엉덩이쪽으로 당겼다가 펴주는 동작입니다.",
+    "group": [
+      "group25",
+      "group16"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 4
+      }
+    ],
+    "url": "2grWkc3ZsLM",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex30",
+    "name": "케겔",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "골반아래 공을 두고 무릎을 접고 앉아서 회음부 근육을 조였다가 풀기를 반복하는 운동입니다.",
+    "group": [
+      "group17"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 2
+      }
+    ],
+    "url": "Vnj5RRtHHvs",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex31",
+    "name": "클램",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "골반을 수평으로 맞춰 옆으로 누운상태에서, 골반은 그대로 유지하고 뒤꿈치가 떨어지지 않는선에서 위쪽 무릎을 벌려주는 동작입니다.",
+    "group": [],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "",
+    "isTime": false,
+    "isDeleted": true
+  },
+  {
+    "code": "ex32",
+    "name": "타올 스퀴즈",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "앉은상태에서 다리사이에 볼을두고, 안쪽방향으로 조여주는 동작입니다.",
+    "group": [],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "",
+    "isTime": false,
+    "isDeleted": true
+  },
+  {
+    "code": "ex33",
+    "name": "티레이즈",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "고프론에 엎드린채로 양팔을 T자 모양으로 만들어, 양쪽 날개뼈를 모은다는 느낌으로 팔을 들어올리는 동작입니다.",
+    "group": [
+      "group31"
+    ],
+    "ratings": [
+      {
+        "name": "근력",
+        "rating": 2
+      }
+    ],
+    "url": "kefR5SK1jQk",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex34",
+    "name": "폼롤러마사지 - 등",
+    "cnt": 30,
+    "setCnt": 1,
+    "description": "천장을 보고 누운상태에서 등 부위에 폼룰러를 대고 마사지하는 동작입니다.",
+    "group": [
+      "group13"
+    ],
+    "ratings": [
+      {
+        "name": "마사지",
+        "rating": 5
+      }
+    ],
+    "url": "JBlX9uaESE0",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex35",
+    "name": "풀(하)",
+    "cnt": 12,
+    "setCnt": 1,
+    "description": "바닥에 놓인 물건을 들어 올리는 동작입니다. 런지자세에서 척주정렬을 유지한채로 고관절을 접어 내려갔다가 바닥에 있는 물건을 몸통으로 당기고 허리를 세우는 동작입니다.",
+    "group": [
+      "group16",
+      "group33"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "KmmMQl0Zq8U",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex36",
+    "name": "흉복식 호흡법",
+    "cnt": 10,
+    "setCnt": 1,
+    "description": "누운상태에서 척추의 정렬을 유지하고 코로 마시며 복부와 흉곽을 양옆으로 넓게 늘렸다가, 내쉴때는 코르셋을 입은 것처럼 복부와 흉곽사이즈를 줄여주는 동작입니다.",
+    "group": [
+      "group16"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      }
+    ],
+    "url": "rKJ3tvtEW5A",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex37",
+    "name": "네발자세흉추회전",
+    "cnt": 5,
+    "setCnt": 1,
+    "description": "네발자세에서 견갑골을 모았다가 펴주는 동작과 한팔을 머리뒤로 가져간뒤 상체를 회전하는 동작입니다.",
+    "group": [
+      "group37"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 4
+      },
+      {
+        "name": "유연성",
+        "rating": 3
+      }
+    ],
+    "url": "h-cAPT7nXA8",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex38",
+    "name": "힙어덕션",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "무릎사이에 쿠션이나 공을 끼우고 모으는 동작입니다.",
+    "group": [
+      "group28"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "QAJvcYj0z5k",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex39",
+    "name": "힙에이비덕션",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "고프론에 엎드린채로 무릎을 편 상태에서 허벅지 바깥쪽 중둔근의 힘을 이용하여 다리를 옆으로 들어올리는 동작입니다.",
+    "group": [
+      "group24"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "lfddRGJ49yc",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex40",
+    "name": "힙익스텐션",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "고프론에 엎드린채로 한발씩 들어올리거나 발목사이에 공을 끼우고, 천장방향으로 천천히 들어올리는 동작입니다.",
+    "group": [
+      "group24",
+      "group25"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "VPqpD4rlw1E",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex41",
+    "name": "힙힌지(하)",
+    "cnt": 15,
+    "setCnt": 1,
+    "description": "네발기기 상태에서 척추정렬을 유지한채로 엉덩이를 뒤로 빼면서 고관절을 접어 내려갔다가 다시 제자리로 돌아오는 동작입니다.",
+    "group": [
+      "group17"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 3
+      }
+    ],
+    "url": "XoS89xWGG5I",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex42",
+    "name": "마사지볼 - 발바닥 통증",
+    "cnt": 10,
+    "setCnt": 1,
+    "description": "서있는 상태에서 발바닥 아래 공을 두고 발을 가볍게 움직이며 마사지하는 동작입니다.",
+    "group": [
+      "group21"
+    ],
+    "ratings": [
+      {
+        "name": "마사지",
+        "rating": 5
+      }
+    ],
+    "url": "MMQeZMdgrr4",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex43",
+    "name": "마사지볼 - 가슴",
+    "cnt": 30,
+    "setCnt": 1,
+    "description": "천장을 보고 누운상태에서 팔을 직각으로 접어 올린채, 가슴위쪽에 마사지볼을 두고 가볍게 움직이며 마사지하는 동작입니다.",
+    "group": [
+      "group12"
+    ],
+    "ratings": [
+      {
+        "name": "마사지",
+        "rating": 5
+      }
+    ],
+    "url": "MqGvl2TCGQk",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex44",
+    "name": "마사지볼 - 복부",
+    "cnt": 30,
+    "setCnt": 1,
+    "description": "천장을 보고 누운상태에서 옆구리 부위에 마사지볼을 두고 가볍게 움직이며 마사지하는 동작입니다.",
+    "group": [
+      "group15"
+    ],
+    "ratings": [
+      {
+        "name": "마사지",
+        "rating": 5
+      }
+    ],
+    "url": "_JxdWvwkQC0",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex45",
+    "name": "마사지볼 - 엉덩이",
+    "cnt": 30,
+    "setCnt": 1,
+    "description": "천장을 보고 누운상태에서 엉덩이 부위에 마사지볼을 두고 몸을 가볍게 움직이며 마사지하는 동작입니다.",
+    "group": [
+      "group18"
+    ],
+    "ratings": [
+      {
+        "name": "마사지",
+        "rating": 5
+      }
+    ],
+    "url": "1_5Mt2FmfBQ",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex46",
+    "name": "마사지볼 - 종아리",
+    "cnt": 30,
+    "setCnt": 1,
+    "description": "천장을 보고 누운상태에서 종아리 부위에 마사지볼을 두고 반대편 발로 가볍게 눌러주며 마사지하는 동작입니다.",
+    "group": [
+      "group19"
+    ],
+    "ratings": [
+      {
+        "name": "마사지",
+        "rating": 5
+      }
+    ],
+    "url": "u0BTxhKkUT4",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex48",
+    "name": "마사지볼 - 어깨",
+    "cnt": 30,
+    "setCnt": 1,
+    "description": "천장을 보고 누운상태에서 어깨 부위에 마사지볼을 두고 몸을 가볍게 움직이며 마사지하는 동작입니다.",
+    "group": [
+      "group11"
+    ],
+    "ratings": [
+      {
+        "name": "마사지",
+        "rating": 5
+      }
+    ],
+    "url": "D5HRLx78OpE",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex49",
+    "name": "폼롤러마사지 - 어깨",
+    "cnt": 30,
+    "setCnt": 1,
+    "description": "천장을 보고 누운상태에서 어깨 부위에 폼룰러를 대고 마사지하는 동작입니다.",
+    "group": [
+      "group11"
+    ],
+    "ratings": [
+      {
+        "name": "마사지",
+        "rating": 5
+      }
+    ],
+    "url": "RMgOUVAmw5M",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex51",
+    "name": "폼롤러마사지 - 허리",
+    "cnt": 30,
+    "setCnt": 1,
+    "description": "천장을 보고 누운상태에서 허리 부위에 폼룰러를 대고 마사지하는 동작입니다.",
+    "group": [
+      "group14"
+    ],
+    "ratings": [
+      {
+        "name": "마사지",
+        "rating": 5
+      }
+    ],
+    "url": "0khXhelAZwA",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex52",
+    "name": "폼롤러마사지 - 종아리",
+    "cnt": 30,
+    "setCnt": 1,
+    "description": "천장을 보고 누운상태에서 종아리 부위에 폼룰러를 대고 반대편 발로 가볍게 눌러주며 마사지하는 동작입니다.",
+    "group": [
+      "group19"
+    ],
+    "ratings": [
+      {
+        "name": "마사지",
+        "rating": 5
+      }
+    ],
+    "url": "Erz0Jgs0nM0",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex54",
+    "name": "고관절내회전(상)",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "앉은 자세에서 무릎을 구부린 채로 무릎을 좌,우로 번갈아가며 바닥을 향해 내릴때 같은방향으로 몸통도 함께 회전하는 동작입니다.",
+    "group": [
+      "group34"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 5
+      },
+      {
+        "name": "유연성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 2
+      }
+    ],
+    "url": "KCMtmyktETU",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex55",
+    "name": "푸쉬업",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "바닥에 무릎을 대고 엎드려 팔을 굽히고 펴기를 반복하는 동작입니다.",
+    "group": [
+      "group22",
+      "group23"
+    ],
+    "ratings": [
+      {
+        "name": "근력",
+        "rating": 5
+      }
+    ],
+    "url": "yxRS9GR3n94",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex56",
+    "name": "클램",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "골반을 수평으로 맞춰 옆으로 누운상태에서, 골반은 그대로 유지하고 뒤꿈치가 떨어지지 않는선에서 위쪽 무릎을 벌려주는 동작입니다.",
+    "group": [
+      "group24"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "EaS09WP_fgo",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex59",
+    "name": "데드버그",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "천장을 보고 누운상태에서 팔과 다리를 서로 엇갈린 방향으로 올리고 내리는 동작입니다.",
+    "group": [
+      "group27"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "qM5sqng68rE",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex60",
+    "name": "무릎 플랭크",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "네발자세에서 무릎을 바닥에서 떼어낸채 코어힘으로 체중을 버텨내는 동작입니다.",
+    "group": [
+      "group27"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 4
+      }
+    ],
+    "url": "yy9iXRBek6A",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex61",
+    "name": "사이드 플랭크",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "옆으로 누운 자세에서 다리를 구부린채 팔꿈치로 몸통을 지탱하는 동작입니다.",
+    "group": [
+      "group27"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 4
+      }
+    ],
+    "url": "jAMhIIqX1SY",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex62",
+    "name": "밴드 호흡",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "밴드를 늑골하부에 교차시켜 양손으로 잡고 양손을 외회전하여 어깨를 펴고 늑골을 조인 상태에서 호흡을 하는 동작입니다.",
+    "group": [
+      "group35",
+      "group36"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      },
+      {
+        "name": "가동성",
+        "rating": 3
+      }
+    ],
+    "url": "h3Qxt5mHSP4",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex63",
+    "name": "폼롤러 컬업",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "폼룰러에 누운상태에서 복부힘으로 견갑골 하각까지 상체를 끌어올리는 동작입니다.",
+    "group": [
+      "group27"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "9euAqnbRyUc",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex65",
+    "name": "복부바인딩",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "밴드를 늑골하부에 교차시켜 양손으로 잡고 양손을 외회전하여 어깨를 펴고 늑골을 조인 상태에서 호흡과 컬업을 하는 동작입니다.",
+    "group": [
+      "group27"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "I2bGtAYBuoI",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex66",
+    "name": "밴드 클램",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "옆으로 누운자세에서 허벅지에 밴드를 감은채 뒤꿈치가 떨어지지 않게 무릎사이를 벌려주는 동작입니다.",
+    "group": [
+      "group24"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "-N1TctUZBvY",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex67",
+    "name": "밴드 클램 홀딩",
+    "cnt": 10,
+    "setCnt": 1,
+    "description": "옆으로 누운자세에서 허벅지에 밴드를 감은채 뒤꿈치가 떨어지지않게 무릎사이를 벌리고 유지하는 동작입니다.",
+    "group": [
+      "group24"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "oXZh_-U4rGg",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex68",
+    "name": "레돈도볼 스퀴즈",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "의자에 앉은상태에서 허벅지 사이에 볼을 넣고 조여주는 동작입니다.",
+    "group": [
+      "group28"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "oV81D1yPPyA",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex69",
+    "name": "레돈도볼 스퀴즈홀딩",
+    "cnt": 10,
+    "setCnt": 1,
+    "description": "의자에 앉은상태에서 허벅지 사이에 볼을 넣고 조여주는것을 유지하는 동작입니다.",
+    "group": [
+      "group28"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "orwipw55WD0",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex71",
+    "name": "골반하이킹(매트)",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "천장을 보고 누운상태에서 양쪽 발목아래 폼룰러를 두고 골반을 올리고 내리는 동작입니다.",
+    "group": [
+      "group24"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 2
+      }
+    ],
+    "url": "kfLxBAQtO5g",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex73",
+    "name": "힙힌지(중)",
+    "cnt": 15,
+    "setCnt": 1,
+    "description": "무릎을 딛고 선 상태에서 척추정렬을 유지한채로 엉덩이를 뒤로 빼면서 고관절을 접어 내려갔다가 다시 제자리로 돌아오는 동작입니다.",
+    "group": [
+      "group17"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 3
+      }
+    ],
+    "url": "JQDD2Ghwqr0",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex74",
+    "name": "힙힌지(상)",
+    "cnt": 15,
+    "setCnt": 1,
+    "description": "서있는 상태에서 척추정렬을 유지한채로 엉덩이를 뒤로 빼면서 고관절을 접어 내려갔다가 다시 제자리로 돌아오는 동작입니다.",
+    "group": [
+      "group17"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 3
+      }
+    ],
+    "url": "FYp8arAOb3s",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex75",
+    "name": "힙힌지(극상)",
+    "cnt": 15,
+    "setCnt": 1,
+    "description": "한발로 서서 척추정렬을 유지한채로 한쪽 고관절을 접고 폈다가 다시 제자리로 돌아오는 동작입니다.",
+    "group": [
+      "group17"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 3
+      }
+    ],
+    "url": "L4xnG2mQigQ",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex76",
+    "name": "스쿼트(하)",
+    "cnt": 12,
+    "setCnt": 1,
+    "description": "의자앞에 서서 최대한 천천히 내려가는 네거티브 동작입니다.",
+    "group": [
+      "group26",
+      "group24"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 4
+      }
+    ],
+    "url": "6yBok6vZt54",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex78",
+    "name": "스쿼트(상)",
+    "cnt": 12,
+    "setCnt": 1,
+    "description": "한발로 서서 45도 정도 굽혔다 펴는 동작입니다.",
+    "group": [
+      "group26",
+      "group24"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 4
+      }
+    ],
+    "url": "FyOGCU6FL9w",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex79",
+    "name": "스쿼트(극상)",
+    "cnt": 12,
+    "setCnt": 1,
+    "description": "의자앞에 서서 한발로 천천히 내려가는 네거티브 동작입니다.",
+    "group": [
+      "group26",
+      "group24"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 5
+      }
+    ],
+    "url": "VZjV91tnf_I",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex81",
+    "name": "풀(상)",
+    "cnt": 12,
+    "setCnt": 1,
+    "description": "서있는 상태에서 고관절을 접어 상체를 숙여 중량을 무릎높이까지 내렸다가 다시 몸쪽으로 당겨서 허리를 세우는 동작입니다.",
+    "group": [
+      "group16",
+      "group33"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "j9IGosW5msw",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex83",
+    "name": "런지(중)",
+    "cnt": 12,
+    "setCnt": 1,
+    "description": "한발씩 교차하면서 무릎을 바닥으로 내렸다가 올라오는 동작입니다.",
+    "group": [
+      "group26",
+      "group24"
+    ],
+    "ratings": [
+      {
+        "name": "근력",
+        "rating": 5
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      }
+    ],
+    "url": "BMWS-sOrXeE",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex84",
+    "name": "런지(상)",
+    "cnt": 12,
+    "setCnt": 1,
+    "description": "다리를 넓게 벌려놓고 체중을 한쪽씩 옮겨가며 무릎을 굽혔다 펴는 동작입니다.",
+    "group": [
+      "group26",
+      "group24"
+    ],
+    "ratings": [
+      {
+        "name": "근력",
+        "rating": 5
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      }
+    ],
+    "url": "8hc-lL8Ix9o",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex85",
+    "name": "런지(극상)",
+    "cnt": 12,
+    "setCnt": 1,
+    "description": "앞으로 걸어가면서 무릎을 굽혀 바닥으로 내려갔다 올라오는 동작입니다.",
+    "group": [
+      "group26",
+      "group24"
+    ],
+    "ratings": [
+      {
+        "name": "근력",
+        "rating": 5
+      },
+      {
+        "name": "안정성",
+        "rating": 4
+      }
+    ],
+    "url": "TOqpwT3sHeo",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex87",
+    "name": "로딩캐리(중)",
+    "cnt": 60,
+    "setCnt": 1,
+    "description": "중량을 몸의 한쪽에 두고 걷는 동작입니다.",
+    "group": [
+      "group16",
+      "group39"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      },
+      {
+        "name": "유산소",
+        "rating": 3
+      }
+    ],
+    "url": "b3-x4YhZQ18",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex88",
+    "name": "로딩캐리(상)",
+    "cnt": 60,
+    "setCnt": 1,
+    "description": "중량을 머리위로 들고 걷는 동작입니다.",
+    "group": [
+      "group16",
+      "group39"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      },
+      {
+        "name": "유산소",
+        "rating": 3
+      }
+    ],
+    "url": "_yBmtVFbb8k",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex89",
+    "name": "로딩캐리(극상)",
+    "cnt": 60,
+    "setCnt": 1,
+    "description": "중량을 바꿔가면서 스탭박스를 오르내리는 동작입니다.",
+    "group": [
+      "group16",
+      "group39"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      },
+      {
+        "name": "유산소",
+        "rating": 3
+      }
+    ],
+    "url": "Pj0fVPS4YO8",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex90",
+    "name": "카프레이즈",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "서있는 상태에서 한쪽 발은 지탱하는 발목에 걸어두고, 지탱하는 다리의 뒤꿈치를 들어 올리는 동작입니다.",
+    "group": [
+      "group19",
+      "group21"
+    ],
+    "ratings": [
+      {
+        "name": "근력",
+        "rating": 4
+      }
+    ],
+    "url": "ltUll5Vr0EA",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex91",
+    "name": "원레그 브릿지",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "천장을 보고 누운상태에서 골반 넓이로 다리를 벌려준 뒤 무릎을 구부린 채, 복근과 엉덩이에 힘을주며 한다리로만 엉덩이를 천장방향으로 들어올리는 동작입니다.",
+    "group": [
+      "group16",
+      "group24"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 4
+      }
+    ],
+    "url": "jyXlwhgd9v4",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex93",
+    "name": "발목가동성(중)",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "긴 스틱을 잡고 무릎을 90도로 굽혀 무릎을 스틱 앞으로, 안쪽으로, 바깥쪽으로 밀어주는 발목 가동성 운동입니다.",
+    "group": [
+      "group19",
+      "group21"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 4
+      },
+      {
+        "name": "유연성",
+        "rating": 4
+      }
+    ],
+    "url": "l5XXg_e2A0A",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex94",
+    "name": "발목가동성(상)",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "앞쪽 다리를 90도로 하고 뒤쪽 무릎을 바닥에 댄 상태에서 앞쪽 발목과 딋쪽 발바닥에 밴드를 묶고 앞쪽 무릎을 밀어 주는 동작입니다.",
+    "group": [
+      "group19",
+      "group21",
+      "group20"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 5
+      },
+      {
+        "name": "유연성",
+        "rating": 4
+      }
+    ],
+    "url": "6jpPxQnJkzQ",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex95",
+    "name": "레그스윙 - 1",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "바르게 선 상태에서 등을 밴드로 보조해준 상태에서 한쪽다리를 몸쪽으로 올렸다 내리는 고관절 움직임입니다.",
+    "group": [
+      "group34"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "안정성",
+        "rating": 2
+      },
+      {
+        "name": "근력",
+        "rating": 2
+      }
+    ],
+    "url": "p_2Bm2nB60M",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex96",
+    "name": "레그스윙 - 2",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "바르게 선 상태에서 팔로 밴드를 잡고 상체를 보조해준 상태에서 한쪽다리를 몸쪽으로 올렸다 내리는 고관절 움직임입니다.",
+    "group": [
+      "group34"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "안정성",
+        "rating": 2
+      },
+      {
+        "name": "근력",
+        "rating": 2
+      }
+    ],
+    "url": "gY0oiWzRHFI",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex97",
+    "name": "레그스윙 - 3",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "바르게 선 상태에서 벽에 몸을 약간 기울여서 기댄 상태에서 한쪽다리를 몸쪽으로 올렸다 내리는 고관절 움직임입니다.",
+    "group": [
+      "group34"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 4
+      },
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 2
+      }
+    ],
+    "url": "jOQ9GAqE4H8",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex99",
+    "name": "런지흉추회전",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "런지 자세에서 골반을 고정한 뒤 양손을 앞으로 나란히 하고, 한쪽 팔을 열어주며 시선도 같이 움직여 흉추의 회전을 올리는 동작입니다.",
+    "group": [
+      "group37"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      }
+    ],
+    "url": "A_uMinSpCk8",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex100",
+    "name": "런지트위스트",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "런지 자세에서 골반을 고정한 뒤 밴드를 잡은 양손을 뻗어 앞쪽 다리 방향으로 몸통을 회전하는 동작입니다. (손목과 팔꿈치가 꺽이지 않는 범위)",
+    "group": [
+      "group37"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 4
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "9XpJPCS4_e4",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex101",
+    "name": "등대고팔들어올리기",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "무릎을 약간 구부린 스쿼트자세로 벽에 등 대고 양팔을 들어 올려 엄지손가락이 벽에 닿도록 하는 운동입니다.",
+    "group": [
+      "group11"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 4
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 3
+      }
+    ],
+    "url": "JsoqAZJcXg0",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex102",
+    "name": "짐볼힙플렉션",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "천장을 보고 누워서 짐볼에 다리를 올려놓고 90도 굽힙니다. 그상태에서 한쪽 다리를 살짝 들어 머리 방향으로 가져 왔다가 되돌아가는 동작입니다.",
+    "group": [
+      "group29"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "NfwLoIhhOas",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex103",
+    "name": "싱글레그트위스트",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "한팔을 ㄴ자로 한쪽 다리를 골ㄱ자로 벽에 대고 골반을 밀어 몸통을 반대방향으로 회전하는 동작입니다.",
+    "group": [
+      "group24",
+      "group37"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 4
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "IC50qw6yuOA",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex104",
+    "name": "싱글레그볼트위스트",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "한쪽 다리를 골ㄱ자로 짐볼에 고정하고 몸통을 반대 방향으로 회전하는 동작입니다.",
+    "group": [
+      "group24",
+      "group37"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 4
+      },
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "gkbDkXlqwjg",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex105",
+    "name": "짐볼사이드킥",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "한쪽 무릎대고 짐볼에 몸을 기대어 반대쪽 다리를 들어올리는 동작입니다.",
+    "group": [
+      "group16",
+      "group24"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 4
+      }
+    ],
+    "url": "RSWDwksCNb8",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex106",
+    "name": "짐볼사이드밴딩",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "한발을 짐볼 위에 올려 두고 몸을 옆으로 내려갔다 올라오는 동작입니다.",
+    "group": [
+      "group16"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "H8Gy4Ri9H2E",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex107",
+    "name": "짐볼브릿지",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "짐볼에 등과 머리를 고정하고 골반 넓이로 다리를 벌려준 뒤 무릎을 구부린 채, 복근과 엉덩이에 힘을주며 엉덩이를 천장방향으로 들어올리는 동작입니다.",
+    "group": [
+      "group24",
+      "group25"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 4
+      },
+      {
+        "name": "유연성",
+        "rating": 2
+      }
+    ],
+    "url": "C5pnn0mMYek",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex108",
+    "name": "흉추회전운동",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "옆으로 누운 자세에서 다리를 구부린채 하체를 고정하고 한팔을 열어 시선과 같이 열어주는 동작입니다.",
+    "group": [
+      "group16",
+      "group37",
+      "group11"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 3
+      }
+    ],
+    "url": "A22hRxWdT20",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex109",
+    "name": "체어캣스트레칭",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "무릎 꿇은 자세에서 양팔을 의자 위에 올려 두고 상체를 아래로 스트레칭하는 자세입니다.",
+    "group": [
+      "group16",
+      "group37",
+      "group11"
+    ],
+    "ratings": [
+      {
+        "name": "유연성",
+        "rating": 4
+      },
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 2
+      }
+    ],
+    "url": "gFMByZ6Dn5k",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex110",
+    "name": "어깨회전운동",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "옆으로 누운 자세에서 다리를 구부린채 하체를 고정하고 위에 있는 팔을 어깨 높이에서 앞에서 위로 회전하는 동작입니다.",
+    "group": [
+      "group16",
+      "group37",
+      "group11"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 3
+      }
+    ],
+    "url": "flHSlEiZFQc",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex111",
+    "name": "어깨가동성운동(폴)",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "의자에 앉아 한손 등 뒤, 한손 머리 뒤로 넘겨 봉을 잡아 위 아래로 당겨 어깨의 가동범위를 올리는 동작입니다.",
+    "group": [
+      "group11"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 4
+      }
+    ],
+    "url": "h_HV4oA-Vwc",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex112",
+    "name": "폴트위스트밴딩",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "의자 앉아 봉을 머리 뒤에 두고 양손으로 잡아 상체를 바르게 세운 상태로 몸통의 회전과 같이 사선 앞 뒤로 움직이는 동작입니다.",
+    "group": [
+      "group16",
+      "group37",
+      "group11"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 2
+      }
+    ],
+    "url": "3_glYtqgAg0",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex113",
+    "name": "폼롤러 흉추스트레칭",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "네발기기 상태에서 폼롤러에 양손 어깨 너비로 한뒤 밀어 가슴을 바닥으로 내리며 골반을 고정하는 동작입니다.",
+    "group": [
+      "group16",
+      "group37"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 4
+      },
+      {
+        "name": "마사지",
+        "rating": 2
+      }
+    ],
+    "url": "3c4kfbY_-PU",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex114",
+    "name": "폼롤러 흉추가동성(상)",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "네발기기 상태에서 한손은 앞으로 나머지 한손은 어깨 아래로 지나가게 폼롤러 밀며 회전하는 동작입니다.",
+    "group": [
+      "group16",
+      "group37"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 4
+      },
+      {
+        "name": "마사지",
+        "rating": 3
+      }
+    ],
+    "url": "UnR9Toacf0I",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex115",
+    "name": "폼롤러 상체들어올리기",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "엎드린 상태에서 폼롤러에 양팔에 어깨 너비로 두고 당겨내며 상체를 들어 올리는 동작입니다.",
+    "group": [
+      "group16"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 4
+      },
+      {
+        "name": "마사지",
+        "rating": 3
+      }
+    ],
+    "url": "eASVxdet970",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex116",
+    "name": "폼롤러에 누워있기",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "폼롤러에 누운상태에서 두 다리를 들어 유지하는 동작입니다.",
+    "group": [
+      "group16"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "T1U0H-kLzd0",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex117",
+    "name": "폼롤러에서 컬업",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "폼롤러에 누운상태에서 골반 넓이로 다리를 벌려준 뒤 무릎을 구부린 채, 복부힘으로 견갑골 하각까지 상체를 끌어올리는 동작입니다.",
+    "group": [
+      "group15"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "9euAqnbRyUc",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex118",
+    "name": "등 강화운동",
+    "cnt": 12,
+    "setCnt": 3,
+    "description": "엎드린 상태에서 상체를 들어 올린 후 양팔을 W모양으로 접으며 견갑골 아래로 모아 주는 동작입니다.",
+    "group": [
+      "group30",
+      "group31"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "HXLinJEo7NA",
+    "isTime": false,
+    "isDeleted": false
+  },
+  {
+    "code": "ex119",
+    "name": "산자세",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "바르게 선자세에서 양손을 정면을 향하게 하여 호흡하는 자세입니다. (안정성이 있다면 눈을 감아줍니다.)",
+    "group": [
+      "group16"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 2
+      }
+    ],
+    "url": "P2K3uwBiaDQ",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex120",
+    "name": "나무자세(하)",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "바르게 선자세에서 한쪽 뒷꿈치를 복사뼈 두고 무릎을 열어주고 안정성에 따라 손을 가슴으로 두고 유지하는 자세입니다.",
+    "group": [
+      "group16",
+      "group20",
+      "group34"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 2
+      },
+      {
+        "name": "유연성",
+        "rating": 2
+      }
+    ],
+    "url": "SJ0bIOt_s48",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex121",
+    "name": "나무자세(중)",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "바르게 선자세에서 한쪽 발을 허벅지 안쪽에 두고 무릎을 열어주고 안정성에 따라 손을 가슴으로 두고 유지하는 자세입니다.",
+    "group": [
+      "group16",
+      "group20",
+      "group34"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 3
+      }
+    ],
+    "url": "YgggKPaSv24",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex122",
+    "name": "나무자세(상)",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "바르게 선자세에서 발등을 반대 고관절에 두고 무릎을 열어주고 안정성에 따라 손을 가슴으로 두고 유지하는 자세입니다.",
+    "group": [
+      "group16",
+      "group20",
+      "group34"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 4
+      }
+    ],
+    "url": "pBcwaDzKsKY",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex123",
+    "name": "피라미드자세",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "바르게 선자세에서 한발 어깨넓이 1.5배 뒤 45도 열어 두고 골반 수평 정렬 후 양손 골반 위두고,척추가 굽지 않을 정도까지 상체를 숙이는 동작입니다.",
+    "group": [
+      "group25",
+      "group24"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 3
+      }
+    ],
+    "url": "9ty4nXV0was",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex124",
+    "name": "삼각자세",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "다리를 어깨너비 두 배 이상으로 벌려 양팔을 평행하게 옆으로 쭉 뻗고, 한발을 바깥쪽으로 향하게 한 뒤 허벅지와 종아리에 힘을 주어 상체를 내려가 발목을 짚고 나머지 손은 천장은 향해 뻗으며, 시선은 손끝을 향하여 유지 후 돌아 오는 자세입니다.",
+    "group": [
+      "group38",
+      "group34"
+    ],
+    "ratings": [
+      {
+        "name": "유연성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "6lBUdVYxUzI",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex125",
+    "name": "전사자세1",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "바르게 선자세에서 한발 뒤로 보내 앞쪽 다리를 굽혀 발목과 무릎을 일자로 맞추고, 골반을 앞발 향하게 하여 양팔이 어깨와 일직선이 되도록 들어 올리는 자세입니다.(목 통증에 따라 시선 정면 또는 손끝)",
+    "group": [
+      "group16",
+      "group33"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "ZP4O1Q1A7Kw",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex126",
+    "name": "전사자세2",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "바르게 선자에서 한발 1m 뒤로 보내 앞발과 뒷발의 각도90도만들고 앞무릎 구부려 뒷발가락의 방향으로 골반과 상체 고정후 양팔을 평행하게 옆으로 쭉 뻗고 시선 앞발방향 손을 향해 바라보며 유지하는 자세입니다.",
+    "group": [
+      "group16",
+      "group34",
+      "group11"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 3
+      }
+    ],
+    "url": "Uq6r8e_V4nY",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex127",
+    "name": "아기자세",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "무릎꿇고 앉은 자세에서 상체를 앞으로 숙여 복부와 허벅지를 닿게 하여 호흡하는 자세입니다.",
+    "group": [
+      "group38"
+    ],
+    "ratings": [
+      {
+        "name": "유연성",
+        "rating": 5
+      }
+    ],
+    "url": "-zB4Gs8dAwE",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex129",
+    "name": "캣스트레칭(초급)",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "네발기기 상태에서 양손 어깨 넓이보다 멀리 손 짚고 팔꿈치를 바닥에 내려 골반 방향으로 길게 연장하는 자세입니다.",
+    "group": [
+      "group16",
+      "group37",
+      "group11"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 2
+      }
+    ],
+    "url": "pzUkIEOor4E",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex130",
+    "name": "나비자세",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "바르게 앉은 자세에서 양쪽 발바닥을 마주 붙여서 양손으로 발가락을 잡아 회음부 가까이 끌어당겨 아랫배를 내밀면서 가슴을 쭉 펴준 뒤 숨을 내쉬면서 이마가 바닥에 닿도록 천천히 상체를 숙이고 유지했다 상체를 일으키는 자세입니다.",
+    "group": [
+      "group17"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 3
+      }
+    ],
+    "url": "JFL05jSYZfc",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex131",
+    "name": "소머리자세",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "다리를 쭉펴고 앉은 자세에서 한쪽 다리를 접어 다른 다리에 올리고 두 무릎이 수평이 되면 양손 발위에 두고 상체를 구버려 유지했다 돌아오는 자세입니다.",
+    "group": [
+      "group38",
+      "group17"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "JNw3ZqQFC6o",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex133",
+    "name": "화환자세",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "발을 어깨 너비보다 더 벌려 주고 바깥방향을 향하도록 쪼그려 앉아, 팔꿈치를 허벅지 안쪽에 대어 손을 기도하는 자세로 밀어 주어 상체를 최대한 곧게 펴주어 유지하는 자세입니다.",
+    "group": [
+      "group38",
+      "group34"
+    ],
+    "ratings": [
+      {
+        "name": "유연성",
+        "rating": 4
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      }
+    ],
+    "url": "3eZMfm4pv1U",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex134",
+    "name": "앉은 명상자세",
+    "cnt": 180,
+    "setCnt": 1,
+    "description": "바르게 앉은 자세에서 양손을 무드라를 만들어 호흡하는 자세입니다.",
+    "group": [
+      "group17",
+      "group33"
+    ],
+    "ratings": [
+      {
+        "name": "안정성",
+        "rating": 3
+      }
+    ],
+    "url": "UtGjERrW1B0",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex135",
+    "name": "더블피존자세",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "양쪽 다리를 교차해가며 위에 올려주고 바닥을 기준 삼아 수평을 유지하면서 상체를 천천히 내려 유지 후 올라오는 자세입니다.",
+    "group": [
+      "group32",
+      "group34"
+    ],
+    "ratings": [
+      {
+        "name": "유연성",
+        "rating": 4
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      }
+    ],
+    "url": "eUfKMpuQNOY",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex136",
+    "name": "바람빼기",
+    "cnt": 20,
+    "setCnt": 3,
+    "description": "바르게 누운자세에서 오른무릎 부터 번갈아 접어 가슴 가까이 양손으로 안아 5초 유지 후 , 양다리 무릎 접어 안아 10초 유지 허벅지가 복부를 눌러 장기를 자극하는 자세입니다.",
+    "group": [
+      "group40",
+      "group34"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 4
+      },
+      {
+        "name": "안정성",
+        "rating": 4
+      },
+      {
+        "name": "근력",
+        "rating": 2
+      }
+    ],
+    "url": "zvXUXj5_I-c",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex137",
+    "name": "바늘꿰기",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "천장을 보고 누운상태에서 골반 넓이로 다리를 벌려준 뒤 무릎을 구부린 채, 한다리 4자 모양 만들어 다리 접어 정강뼈 또는 허벅지에 양손 깍지 가슴쪽으로 안아 유지하는 자세입니다",
+    "group": [
+      "group32",
+      "group34"
+    ],
+    "ratings": [
+      {
+        "name": "유연성",
+        "rating": 4
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      }
+    ],
+    "url": "hsYv7yiKIqs",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex138",
+    "name": "물고기자세",
+    "cnt": 10,
+    "setCnt": 3,
+    "description": "천장을 보고 누운상태에서 주먹 쥔 양손 가슴으로 팔꿈치를 접은후 바닥을 밀어 상체를 들어 올려 고개를 천천히 정수리가 바닥에 닿도록하여 호흡하는 자세입니다.",
+    "group": [
+      "group16",
+      "group37",
+      "group11"
+    ],
+    "ratings": [
+      {
+        "name": "가동성",
+        "rating": 3
+      },
+      {
+        "name": "안정성",
+        "rating": 3
+      },
+      {
+        "name": "근력",
+        "rating": 3
+      },
+      {
+        "name": "유연성",
+        "rating": 3
+      }
+    ],
+    "url": "Rb78SIUNOkU",
+    "isTime": true,
+    "isDeleted": false
+  },
+  {
+    "code": "ex139",
+    "name": "사바사나",
+    "cnt": 180,
+    "setCnt": 1,
+    "description": "천장을 보고 편안하게 누운상태에서  팔과 다리 몸의 긴장감을 모두 내려놓고 호흡과 몸의 느낌에 집중하며 편안히 누워있는 자세입니다.",
+    "group": [
+      "group41"
+    ],
+    "ratings": [],
+    "url": "wgXaZQcjY3c",
+    "isTime": true,
+    "isDeleted": false
+  }
+]
