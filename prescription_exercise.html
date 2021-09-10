@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
     <style>
         table{
             border-collapse: collapse;
@@ -16,7 +17,8 @@
         }
 
         #exes {
-            /*width: 100%;*/
+            width: 100%;
+            text-align: center;
         }
         #thumbnail {
 
@@ -52,23 +54,23 @@
                 jsonData = JSON.parse(jsonText);
                 console.log(jsonData);
                 oParams = getUrlParams();
-                // console.log(oParams["list"]);
-                if (oParams["list"] != undefined) {
+                console.log(oParams["list"]);
+                if (oParams["list"] == undefined || oParams["list"] == "") {
+                    document.getElementById('exe_title').innerText = "처방된 운동이 없습니다.";
+                } else {
                     document.getElementById('exe_title').innerText = "처방 운동 목록";
                     const list = oParams["list"].split(",");
                     console.log(list);
                     // const code01 = list.find(code => code === "ex01");
                     // console.log("aaa:"+ code01);
                     list.forEach(function (element) {
-                        if (element != "") {
-                            exercise = jsonData.find(x => x.code === element);
-                            addTableData(exercise);
-                        }
+                            if (element != "") {
+                                exercise = jsonData.find(x => x.code === element);
+                                addTableData(exercise);
+                            }
                         }
 
                     );
-                } else {
-                    document.getElementById('exe_title').innerText = "처방된 운동이 없습니다.";
                 }
             });
 
