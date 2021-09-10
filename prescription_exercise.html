@@ -9,11 +9,11 @@
         }
         th, td{
             padding: 10px 20px;
-            border: 1px solid #000;
+            border: 0px solid #000;
         }
 
         a {
-            color: blue;
+            text-decoration: none;
         }
 
         #exes {
@@ -21,7 +21,26 @@
             text-align: center;
         }
         #thumbnail {
+            width: 100px;
+            height: 80px;
+        }
 
+        #exe_title {
+            color: #8c90ff;
+        }
+
+        #set_string {
+            color: grey;
+        }
+
+        #content {
+            text-align: left;
+        }
+
+        #exe_name {
+            font-size: large;
+            color: black;
+            font-weight: bold;
         }
     </style>
     <script type=""></script>
@@ -60,13 +79,15 @@
                 } else {
                     document.getElementById('exe_title').innerText = "처방 운동 목록";
                     const list = oParams["list"].split(",");
+                    const cnts = oParams["cnt"].split(",");
+                    const setCnts = oParams["setCnt"].split(",");
                     console.log(list);
                     // const code01 = list.find(code => code === "ex01");
                     // console.log("aaa:"+ code01);
-                    list.forEach(function (element) {
+                    list.forEach(function (element, index) {
                             if (element != "") {
                                 exercise = jsonData.find(x => x.code === element);
-                                addTableData(exercise);
+                                addTableData(exercise, cnts[index], setCnts[index]);
                             }
                         }
 
@@ -77,12 +98,21 @@
 
         }
 
-        function addTableData(element) {
+        function addTableData(element, cnt, setCnt) {
             let row = document.createElement('tr');
             let data1 = document.createElement('td');
-            data1.innerHTML = '<img id="thumbnail" src="https://img.youtube.com/vi/'+element.url+'/1.jpg">';
+            data1.innerHTML = '<a href="https://youtu.be/'+element.url+'" target="_blank"><img id="thumbnail" src="https://img.youtube.com/vi/'+element.url+'/hqdefault.jpg"></a>';
             let data2 = document.createElement('td');
-            data2.innerHTML = '<a href="https://youtu.be/'+element.url+'" target="_blank">'+element.name+'</a>';
+            data2.id = "content";
+            var setString = "";
+            if (cnt != undefined && cnt != "") {
+                if (element.isTime) {
+                    setString = cnt + "초 x " + setCnt + "세트";
+                } else {
+                    setString = cnt + "회 x " + setCnt + "세트";
+                }
+            }
+            data2.innerHTML = '<a href="https://youtu.be/'+element.url+'" target="_blank" id="exe_name">'+element.name+'</a><a href="https://youtu.be/'+element.url+'" target="_blank"><p id="set_string">'+setString+'</p></a>';
             row.appendChild(data1);
             row.appendChild(data2);
             document.getElementById('exes').appendChild(row);
