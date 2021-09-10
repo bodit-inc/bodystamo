@@ -60,9 +60,10 @@
                     // const code01 = list.find(code => code === "ex01");
                     // console.log("aaa:"+ code01);
                     list.forEach(function (element) {
+                        if (element != "") {
                             exercise = jsonData.find(x => x.code === element);
                             addTableData(exercise);
-
+                        }
                         }
 
                     );
