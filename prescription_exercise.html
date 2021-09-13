@@ -69,7 +69,7 @@
         }
         window.onload = function () {
             var jsonData;
-            readTextFile("exercises.json", function (jsonText) {
+            readTextFile("./json/exercises.json", function (jsonText) {
                 jsonData = JSON.parse(jsonText);
                 console.log(jsonData);
                 oParams = getUrlParams();
