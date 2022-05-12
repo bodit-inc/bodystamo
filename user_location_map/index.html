@@ -18,11 +18,13 @@
 <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=c256a1ef240c2ac6bb9d9a540a659843&libraries=clusterer"></script>
 <script>
     var baseLevel = 13;
-    var detailLevel = 6;
+    var detailLevel = 4;
+    var homeLat = 35.6;
+    var homeLng = 127;
 
     var container = document.getElementById('map');
     var options = {
-        center: new kakao.maps.LatLng(36.2683, 127.6358),
+        center: new kakao.maps.LatLng(homeLat, homeLng),
         level: baseLevel
     };
 
@@ -59,14 +61,16 @@
     });
 
     function moveStorePosition(x, y) {
+        console.log("move x: %f, y: %f", x, y);
         var moveLatLon = new kakao.maps.LatLng(x, y);
         map.panTo(moveLatLon);
         map.setLevel(detailLevel);
     }
 
     function moveToHome() {
-        var moveLatLon = new kakao.maps.LatLng(36.2683, 127.6358);
-        map.panTo(moveLatLon);
+        console.log("move x: %f, y: %f", homeLat, homeLng);
+        var moveLatLon = new kakao.maps.LatLng(homeLat, homeLng);
+        map.setCenter(moveLatLon);
         map.setLevel(baseLevel);
     }
 </script>
