@@ -63,15 +63,17 @@
     function moveStorePosition(x, y) {
         console.log("move x: %f, y: %f", x, y);
         var moveLatLon = new kakao.maps.LatLng(x, y);
-        map.panTo(moveLatLon);
         map.setLevel(detailLevel);
+        map.panTo(moveLatLon);
+
     }
 
     function moveToHome() {
         console.log("move x: %f, y: %f", homeLat, homeLng);
         var moveLatLon = new kakao.maps.LatLng(homeLat, homeLng);
-        map.setCenter(moveLatLon);
         map.setLevel(baseLevel);
+        map.setCenter(moveLatLon);
+
     }
 </script>
 </body>
