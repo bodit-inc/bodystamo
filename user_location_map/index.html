@@ -10,7 +10,7 @@
 <body>
 <div id="map" style="width:100%;height:600px;"></div>
 <div id="title"></div>
-<button onclick="moveToHome()">home</button>
+<!--<button onclick="moveToHome()">home</button>-->
 <br/>
 <table id="list">
 
@@ -58,9 +58,9 @@
             total += 1;
             if (item.lat == null && item.lng == null) {
                 noAddressUsers += 1;
-                $('#list').append("<tr><td>"+item.name+"<br/>"+item.store+"</td><td>"+item.address+"</td><td> </td></tr>")
+                // $('#list').append("<tr><td>"+item.name+"<br/>"+item.store+"</td><td>"+item.address+"</td><td> </td></tr>")
             } else {
-                $('#list').append("<tr><td>"+item.name+"<br/>"+item.store+"</td><td>"+item.address+"</td><td><button onclick='moveStorePosition("+item.lat+","+item.lng+")'>이동</button></td></tr>")
+                // $('#list').append("<tr><td>"+item.name+"<br/>"+item.store+"</td><td>"+item.address+"</td><td><button onclick='moveStorePosition("+item.lat+","+item.lng+")'>이동</button></td></tr>")
             }
 
         });
