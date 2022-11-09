@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+    <style>
+        table{
+            border-collapse: collapse;
+            border-spacing: 0;
+        }
+        th, td{
+            padding: 10px 20px;
+            border: 0px solid #000;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        #exes {
+            width: 100%;
+            text-align: center;
+        }
+        #thumbnail {
+            width: 100px;
+            height: 80px;
+        }
+
+        #exe_title {
+            color: #8c90ff;
+        }
+
+        #set_string {
+            color: grey;
+        }
+
+        #content {
+            text-align: left;
+        }
+
+        #exe_name {
+            font-size: large;
+            color: black;
+            font-weight: bold;
+        }
+    </style>
+    <script type=""></script>
+    <script type="text/javascript">
+        function getUrlParams() {
+            var params = {};
+            window.location.search.replace(/[?&]+([^=&]+)=([^&]*)/gi,
+                function(str, key, value) {
+                    params[key] = value;
+                }
+            );
+
+            return params;
+        }
+        window.onload = function () {
+            console.log("start");
+            oParams = getUrlParams();
+            console.log(oParams);
+
+            document.getElementById('start_date').innerText = "시작일: " + decodeURI(oParams["start"]);
+            document.getElementById('end_date').innerText = "종료일: " + decodeURI(oParams["end"]);
+        }
+    </script>
+    <meta charset="UTF-8">
+    <title>챌린지 방법</title>
+</head>
+<body>
+
+</body>
+</html>
