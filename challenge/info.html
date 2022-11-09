@@ -62,6 +62,7 @@
 
             document.getElementById('start_date').innerText = "시작일: " + decodeURI(oParams["start"]);
             document.getElementById('end_date').innerText = "종료일: " + decodeURI(oParams["end"]);
+            document.getElementById('title').innerText = decodeURI(oParams["title"]);
         }
     </script>
     <meta charset="UTF-8">
@@ -69,6 +70,7 @@
 </head>
 <body>
     <h2></h2>
+    <h3 id="title"></h3>
     <h3 id="start_date"></h3>
     <h3 id="end_date"></h3>
 </body>
