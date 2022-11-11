@@ -59,9 +59,6 @@
             console.log("start");
             oParams = getUrlParams();
             console.log(oParams);
-
-            document.getElementById('start_date').innerText = "시작일: " + decodeURI(oParams["start"]);
-            document.getElementById('end_date').innerText = "종료일: " + decodeURI(oParams["end"]);
             document.getElementById('title').innerText = decodeURI(oParams["title"]);
         }
     </script>
