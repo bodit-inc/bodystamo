@@ -15,33 +15,27 @@
         a {
             text-decoration: none;
         }
-
-        #exes {
-            width: 100%;
+        body {
             text-align: center;
         }
-        #thumbnail {
-            width: 100px;
-            height: 80px;
+        .title {
+            width: 150px;
+            padding: 5px;
+            background-color: #ffcd39;
+            display: inline-block;
+            border-radius: 10px;
         }
 
-        #exe_title {
-            color: #8c90ff;
+        #image_box {
+            width: 200px;
+        }
+        #image_box1 {
+            width: 100%;
+        }
+        #image_box2 {
+            width: 100%;
         }
 
-        #set_string {
-            color: grey;
-        }
-
-        #content {
-            text-align: left;
-        }
-
-        #exe_name {
-            font-size: large;
-            color: black;
-            font-weight: bold;
-        }
     </style>
     <script type=""></script>
     <script type="text/javascript">
@@ -60,18 +54,31 @@
             oParams = getUrlParams();
             console.log(oParams);
 
-            document.getElementById('start_date').innerText = "시작일: " + decodeURI(oParams["start"]);
-            document.getElementById('end_date').innerText = "종료일: " + decodeURI(oParams["end"]);
-            document.getElementById('title').innerText = decodeURI(oParams["title"]);
+            // document.getElementById('start_date').innerText = "시작일: " + decodeURI(oParams["start"]);
+            // document.getElementById('end_date').innerText = "종료일: " + decodeURI(oParams["end"]);
+            // document.getElementById('title').innerText = decodeURI(oParams["title"]);
         }
     </script>
     <meta charset="UTF-8">
     <title>챌린지 정보</title>
 </head>
 <body>
-    <h2></h2>
-    <h3 id="title"></h3>
-    <h3 id="start_date"></h3>
-    <h3 id="end_date"></h3>
+<!--    <div class="main_title">-->
+<!--        <p id="challenge_title">바디스태모 챌린지</p>-->
+<!--        <p class="title">눈감고 한발서기</p>-->
+<!--        <p>2022.11.21 ~ 2022.12.16</p>-->
+<!--    </div>-->
+<!--    <div>-->
+<!--        <img id="image_box" src="../images/challenge/c2202/c2022.png">-->
+<!--    </div>-->
+<!--    <div>-->
+<!--        <p>챌린지에 도전하고 상품을 받아가세요.</p>-->
+<!--        <p>🌟🌟SNS에 챌린지 사진 및 영상을 함께 올려주세요</p>-->
+<!--    </div>-->
+<div>
+    <p><img id="image_box1" src="../images/challenge/c2202/c2202-01.png"></p>
+    <p><img id="image_box2" src="../images/challenge/c2202/c2202-02.png"></p>
+</div>
+
 </body>
 </html>
