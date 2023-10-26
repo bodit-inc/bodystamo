@@ -1,0 +1,258 @@
+[
+  {
+    "no": 1,
+    "code": "group01",
+    "name": "움직임 개선",
+    "isActive": true,
+    "isDeleted": true
+  },
+  {
+    "no": 2,
+    "code": "group02",
+    "name": "근력 강화 운동",
+    "isActive": true,
+    "isDeleted": true
+  },
+  {
+    "no": 3,
+    "code": "group03",
+    "name": "안정성 운동",
+    "isActive": true,
+    "isDeleted": true
+  },
+  {
+    "no": 4,
+    "code": "group04",
+    "name": "고프론 운동",
+    "isActive": true,
+    "isDeleted": true
+  },
+  {
+    "no": 5,
+    "code": "group05",
+    "name": "유산소 운동",
+    "isActive": true,
+    "isDeleted": true
+  },
+  {
+    "no": 6,
+    "code": "group06",
+    "name": "종아리 부종",
+    "isActive": true,
+    "isDeleted": true
+  },
+  {
+    "no": 7,
+    "code": "group07",
+    "name": "요실금",
+    "isActive": true,
+    "isDeleted": true
+  },
+  {
+    "no": 8,
+    "code": "group08",
+    "name": "허리, 골반 통증",
+    "isActive": true,
+    "isDeleted": true
+  },
+  {
+    "no": 9,
+    "code": "group09",
+    "name": "발바닥 통증",
+    "isActive": true,
+    "isDeleted": true
+  },
+  {
+    "no": 10,
+    "code": "group10",
+    "name": "빈혈",
+    "isActive": true,
+    "isDeleted": true
+  },
+  {
+    "code": "group11",
+    "name": "어깨",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group12",
+    "name": "가슴",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group13",
+    "name": "등",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group14",
+    "name": "허리",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group15",
+    "name": "복부",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group16",
+    "name": "코어",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group17",
+    "name": "골반",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group18",
+    "name": "엉덩이",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group19",
+    "name": "종아리",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group20",
+    "name": "발목",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group21",
+    "name": "발바닥",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group22",
+    "name": "대흉근",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group23",
+    "name": "삼두근",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group24",
+    "name": "둔근",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group25",
+    "name": "대퇴이두근",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group26",
+    "name": "대퇴사두근",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group27",
+    "name": "복근",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group28",
+    "name": "내전근",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group29",
+    "name": "장요근",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group30",
+    "name": "능형근",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group31",
+    "name": "승모근",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group32",
+    "name": "이상근",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group33",
+    "name": "척추기립근",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group34",
+    "name": "고관절",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group35",
+    "name": "횡격막",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group36",
+    "name": "늑골",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group37",
+    "name": "흉추",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group38",
+    "name": "척추",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group39",
+    "name": "유산소",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group40",
+    "name": "장기자극",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "code": "group41",
+    "name": "휴식",
+    "isActive": true,
+    "isDeleted": false
+  }
+]

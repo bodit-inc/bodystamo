@@ -1,0 +1,58 @@
+[
+  {
+    "no": 1,
+    "code": "po1",
+    "name": "supine",
+    "description": "등을 대고 누운 자세",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 2,
+    "code": "po2",
+    "name": "side lying",
+    "description": "옆으로 누운 자세",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 3,
+    "code": "po3",
+    "name": "prone",
+    "description": "엎드린 자세",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 4,
+    "code": "po4",
+    "name": "4-point",
+    "description": "네발기는 자세",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 5,
+    "code": "po5",
+    "name": "kneeling",
+    "description": "무릎을 꿇은 자세",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 6,
+    "code": "po6",
+    "name": "sitting",
+    "description": "앉은 자세",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 7,
+    "code": "po7",
+    "name": "standing",
+    "description": "선자세",
+    "isActive": true,
+    "isDeleted": false
+  }
+]

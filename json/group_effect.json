@@ -1,0 +1,44 @@
+[
+    {
+        "no": 1,
+        "code": "ef1",
+        "name": "가동성",
+        "isActive": true,
+        "isDeleted": false
+    },
+    {
+        "no": 2,
+        "code": "ef2",
+        "name": "유연성",
+        "isActive": true,
+        "isDeleted": false
+    },
+    {
+        "no": 3,
+        "code": "ef3",
+        "name": "근력",
+        "isActive": true,
+        "isDeleted": false
+    },
+    {
+        "no": 4,
+        "code": "ef4",
+        "name": "안정성",
+        "isActive": true,
+        "isDeleted": false
+    },
+    {
+        "no": 5,
+        "code": "ef5",
+        "name": "유산소",
+        "isActive": true,
+        "isDeleted": false
+    },
+    {
+        "no": 6,
+        "code": "ef6",
+        "name": "마사지",
+        "isActive": true,
+        "isDeleted": false
+    }
+]

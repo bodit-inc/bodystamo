@@ -1,0 +1,93 @@
+[
+  {
+    "no": 1,
+    "code": "pa1",
+    "name": "어깨",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 2,
+    "code": "pa2",
+    "name": "가슴",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 3,
+    "code": "pa3",
+    "name": "팔",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 4,
+    "code": "pa4",
+    "name": "흉추/등",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 5,
+    "code": "pa5",
+    "name": "허리",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 6,
+    "code": "pa6",
+    "name": "복부",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 7,
+    "code": "pa7",
+    "name": "코어",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 8,
+    "code": "pa8",
+    "name": "골반",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 9,
+    "code": "pa9",
+    "name": "엉덩이",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 10,
+    "code": "pa10",
+    "name": "허벅지",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 11,
+    "code": "pa11",
+    "name": "종아리",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 12,
+    "code": "pa12",
+    "name": "발목/발",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 13,
+    "code": "pa13",
+    "name": "전신운동",
+    "isActive": true,
+    "isDeleted": false
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "no": 1,
+    "code": "mo1",
+    "name": "손목 가동성",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 2,
+    "code": "mo2",
+    "name": "어깨굴곡 - 신전",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 3,
+    "code": "mo3",
+    "name": "어깨 외전",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 4,
+    "code": "mo4",
+    "name": "어깨 회전",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 5,
+    "code": "mo5",
+    "name": "흉추 회전",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 6,
+    "code": "mo6",
+    "name": "호흡 측정",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 7,
+    "code": "mo7",
+    "name": "전굴-후굴",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 8,
+    "code": "mo8",
+    "name": "측굴",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 9,
+    "code": "mo9",
+    "name": "원레그브릿지",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 10,
+    "code": "mo10",
+    "name": "고관절신전",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 11,
+    "code": "mo11",
+    "name": "하지직거상",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 12,
+    "code": "mo12",
+    "name": "발목가동성",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 13,
+    "code": "mo13",
+    "name": "한발서기",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 14,
+    "code": "mo14",
+    "name": "사이드킥",
+    "isActive": true,
+    "isDeleted": false
+  },
+  {
+    "no": 15,
+    "code": "mo15",
+    "name": "보행검사",
+    "isActive": true,
+    "isDeleted": false
+  }
+]

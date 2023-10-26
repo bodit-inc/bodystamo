@@ -69,7 +69,7 @@
         }
         window.onload = function () {
             var jsonData;
-            readTextFile("./json/exercises.json", function (jsonText) {
+            readTextFile("./json/base_exercise2.json", function (jsonText) {
                 jsonData = JSON.parse(jsonText);
                 console.log(jsonData);
                 oParams = getUrlParams();
@@ -101,7 +101,8 @@
         function addTableData(element, cnt, setCnt) {
             let row = document.createElement('tr');
             let data1 = document.createElement('td');
-            data1.innerHTML = '<a href="https://youtu.be/'+element.url+'" target="_blank"><img id="thumbnail" src="https://img.youtube.com/vi/'+element.url+'/hqdefault.jpg"></a>';
+            let urlCode = element.url.replace("https://youtu.be/", "");
+            data1.innerHTML = '<a href="https://youtu.be/'+urlCode+'" target="_blank"><img id="thumbnail" src="https://img.youtube.com/vi/'+urlCode+'/hqdefault.jpg"></a>';
             let data2 = document.createElement('td');
             data2.id = "content";
             var setString = "";
@@ -112,7 +113,7 @@
                     setString = cnt + "회 x " + setCnt + "세트";
                 }
             }
-            data2.innerHTML = '<a href="https://youtu.be/'+element.url+'" target="_blank" id="exe_name">'+element.name+'</a><a href="https://youtu.be/'+element.url+'" target="_blank"><p id="set_string">'+setString+'</p></a>';
+            data2.innerHTML = '<a href="https://youtu.be/'+urlCode+'" target="_blank" id="exe_name">'+element.name+'</a><a href="https://youtu.be/'+urlCode+'" target="_blank"><p id="set_string">'+setString+'</p></a>';
             row.appendChild(data1);
             row.appendChild(data2);
             document.getElementById('exes').appendChild(row);
